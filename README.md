@@ -4,4 +4,4 @@ Bedrock Coordinates makes your Minecraft experience better by showing your curre
 
 ## Download
 
-Available at https://modrinth.com/mod/bedrock-coordinates
+Available at https://modrinth.com/mod/bedrock-coordinates and https://github.com/Mubioh/Bedrock-Coordinates/releases/.
